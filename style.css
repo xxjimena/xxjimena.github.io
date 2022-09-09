@@ -1,15 +1,18 @@
 body {
-  background-color: #5193;
-  color: ;
+  background-color: #3251;
   font-family: Ariel, Helvetica, sans-serif;
-  Margin: 10% 20%;
+  Margin: 5% 20%;
   
 }
-
-.exp-header {
+h1 {
+  color: black;
+  font-family: elegant;
   text-align: center;
-  text-transform: uppercase;
-  border-top: 9px solid #989;
-  border-bottom: 9px solid #989;
+  border-top: 9px solid #846;
+  border-bottom: 9px solid #846;
   background-color: rgba(0,0,0, 0.06)
+}
+h3 {
+  text-transform: uppercase;
+  font-family: elegant;
 }
